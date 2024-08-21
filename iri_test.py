@@ -723,7 +723,7 @@ def frontend_main():
                          )
 
         ## Display a color coding legend for the completed data display
-        st.image('https://github.com/mdnorris/iri_final/blob/9d6782cfeec7b41f54e860c235667580cbd0d374/items.png', caption='Color coding key')
+        st.image('https://drive.google.com/file/d/1FWUCxkls3cAQavvkwJsZZHnNX9MUlU8i/view?usp=sharing', caption='Color coding key')
 
         ## This section outputs the final model accuracy metrics data with the missing values filled in and colored green in the background to highlight where the data was filled in
         # Same here - but maybe add a try/except block in the future just in case
