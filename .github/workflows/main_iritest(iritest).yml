@@ -66,4 +66,4 @@ jobs:
         with:
           app-name: 'iritest'
           slot-name: 'iritest'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_FFBA0477B35F4D88B7E4F2CD81D5E385 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D4F2CDFF1587427D98863928E9BA48EB }}
